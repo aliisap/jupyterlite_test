@@ -2,11 +2,11 @@
 
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
 
-JupyterLite voidaan julkaista staattisena sivustoja GutHub pagesissa.
+JupyterLite voidaan julkaista staattisena sivustona GitHub pagesissa.
 
 ## ✨ Kokeile ✨
 
-➡️ **aliisap.github.io/jupyterlite_test**
+➡️ **[https://aliisap.github.io/jupyterlite_test/](https://aliisap.github.io/jupyterlite_test/)**
 
 ## Further Information and Updates
 
